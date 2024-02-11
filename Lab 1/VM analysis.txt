@@ -1,0 +1,28 @@
+How does the VM performance change as the number of CPU cores and memory 
+increases? Why?
+
+CPU increases the amount of work that can be done with speed, and there will be a higher
+performance... Memory is associated with the number of things you can do within
+that program and the amount of content that can be held... because the more processing
+power and space in the VM, the closer your performance to your physical machine, and the more 
+processing power and memory space, the better the performance.
+
+Can you notice a change in the performance of the host operating system when changing 
+the virtual machine settings? Why or why not?
+
+Resources are allocated to the VM via the physical machine; I did not notice much of a change
+on the host operating system, but if the host machine did not have enough ram and space
+the VM would be slower and more restricted.
+
+
+Can you change the VM settings, so they are the same as the physical or host machine’s 
+settings?
+
+No, because to do that, it will take complete resources of the host machine to copy the hoit.
+That is not economical.
+
+
+Is the VM usable? Why, or why not? 
+
+It is manageable; I feel for it to function effortlessly, It needs substantially more
+resources allocated to the VM.
